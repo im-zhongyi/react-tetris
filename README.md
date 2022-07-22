@@ -1,4 +1,5 @@
 # React tetris game in development 
+Developed by referring to this tutorial video: https://www.youtube.com/watch?v=ZGOaCxX8HIU
 
 Current feature:
 - soft drop tetromino
